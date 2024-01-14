@@ -1,7 +1,7 @@
 {
   "short_name": "TannerWarp",
   "name": "TannerWarp | A PenguinMod Mod!",
-  "description": "Mod of PenguinMod that was made to allow for really cool projects.",
+  "description": "Mod of PenguinMod that was made to allow for crazy cool projects!",
   "icons": [
     {
       "src": "images/192.png",
@@ -15,7 +15,7 @@
     }
   ],
   "start_url": "editor",
-  "background_color": "red",
+  "background_color": "#fd4848",
   "display": "standalone",
-  "theme_color": "red"
+  "theme_color": "#fd4848"
 }
